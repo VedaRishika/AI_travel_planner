@@ -1,0 +1,6 @@
+{
+  "activity": "string",
+  "why_recommended": ["string"],
+  "alternative": "string | null",
+  "tradeoff": "string"
+}
